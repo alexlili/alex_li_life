@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/2023/11/27/Intro-Pointers-and-Their-Role/</loc>
+    
+    <lastmod>2024-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/2023/11/27/Passing-Arguments/</loc>
+    
+    <lastmod>2024-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/2023/11/27/Return-Types-and-Void-Functions/</loc>
+    
+    <lastmod>2024-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/2023/11/27/Array-Manipulation-and-Traversal/</loc>
+    
+    <lastmod>2023-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/2023/11/27/Declaring-and-Accessing-Arrays/</loc>
+    
+    <lastmod>2023-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/2023/11/27/c-Definition-Functions/</loc>
+    
+    <lastmod>2023-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/2023/11/26/C-combined-list/</loc>
+    
+    <lastmod>2023-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/2023/11/25/C-singly-linked-list/</loc>
+    
+    <lastmod>2023-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/2023/11/25/C-create-duplicate-queue/</loc>
+    
+    <lastmod>2023-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/2023/11/25/C-create-print-reverse-stack/</loc>
+    
+    <lastmod>2023-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/2023/11/17/YOOBEE-WEEK2-ACTIVITY/</loc>
+    
+    <lastmod>2023-11-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/2023/11/03/Leetcode%20NO.1%20Two%20Sum/</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/2023/11/03/Leetcode%20NO.2%20Palindrome%20Number/</loc>
+    
+    <lastmod>2023-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/2023/11/03/Hello%20World/</loc>
+    
+    <lastmod>2023-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/tags/index.html</loc>
+    
+    <lastmod>2023-11-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/categories/index.html</loc>
+    
+    <lastmod>2023-11-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://alex-li-blog.netlify.com/</loc>
+    <lastmod>2024-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/tags/C/</loc>
+    <lastmod>2024-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/tags/Hexo/</loc>
+    <lastmod>2024-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/tags/Leetcode/</loc>
+    <lastmod>2024-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/tags/Two-Sum/</loc>
+    <lastmod>2024-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/tags/Javascript/</loc>
+    <lastmod>2024-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/tags/Palindrome-Number/</loc>
+    <lastmod>2024-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/categories/algorithm/</loc>
+    <lastmod>2024-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/categories/other/</loc>
+    <lastmod>2024-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/categories/backend/</loc>
+    <lastmod>2024-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/categories/frontend/</loc>
+    <lastmod>2024-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://alex-li-blog.netlify.com/categories/frontend/backend/</loc>
+    <lastmod>2024-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
